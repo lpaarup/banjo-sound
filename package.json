@@ -2,7 +2,7 @@
   "name": "banjo-sound",
   "version": "1.0.0",
   "description": "TCP Audio rendering to speaker",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/lpaarup/banjo-sound#readme",
   "dependencies": {
-    "speaker": "^0.5.3",
-    "winston": "^3.3.3"
+    "speaker": "^0.5.3"
   }
 }
